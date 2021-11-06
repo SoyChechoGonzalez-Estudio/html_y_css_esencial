@@ -1,1 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap");
 @import "./reset.css";
+@import "./hero.css";
+@import "./header.css";
+@import "./main.css";
+@import "./setup.css";
+@import "./conceptos.css";
+@import "./model-box.css";
+@import "./components/wrapper.css";
+@import "./components/section-content.css";
+@import "./components/subtitulo.css";
+
+:root {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,14 @@
+.header {
+  /*   border: 3px solid red;
+ */
+  max-inline-size: 100%;
+  min-inline-size: 200px;
+  padding-block: 16px;
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+}
+.header div {
+  position: sticky;
+  top: 24px;
+}

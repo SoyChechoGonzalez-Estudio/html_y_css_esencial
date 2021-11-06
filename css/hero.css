@@ -1,0 +1,6 @@
+.hero {
+  width: 100vw;
+  height: 350px;
+  background: linear-gradient(to top, rgba(281, 255, 255, 0.3), transparent),
+    url("../assets/iconos/hero.svg");
+}
