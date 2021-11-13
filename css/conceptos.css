@@ -1,16 +1,7 @@
-.conceptos {
-  border: 3px solid red;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-.conceptos figure img {
-  max-inline-size: 100%;
-}
 .conceptos pre {
   background-color: #fec62e;
   padding-block: 40px;
   padding-inline: 40px;
   overflow-x: auto;
-  border-radius: 8px;
+  border-radius: 4px;
 }

@@ -1,0 +1,25 @@
+.carousel {
+  margin: 2rem auto;
+  padding: 2rem 0;
+  border: 3px solid red;
+  text-align: center;
+  overflow-x: hidden;
+  max-width: 100%;
+  background-color: green;
+}
+.carousel input {
+  display: none;
+}
+.carousel .slides {
+  inline-size: 300%;
+  display: flex;
+}
+.carousel label {
+  display: inline-block;
+  block-size: 0.75rem;
+  inline-size: 0.75rem;
+  border: medium solid red;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-inline: 0.25rem;
+}
