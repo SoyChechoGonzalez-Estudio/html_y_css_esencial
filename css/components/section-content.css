@@ -2,9 +2,11 @@
   padding-block-end: 40px;
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 8px;
 }
-
+.section-content h1, h2, h3{
+  color: var(--main-color);
+}
 .section-content article {
   display: flex;
   flex-direction: column;

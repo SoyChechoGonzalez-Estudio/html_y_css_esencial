@@ -3,7 +3,8 @@
   padding: 20px;
   display: flex;
   gap: 24px;
-  border: 1px solid blue;
+  max-width: 1280px;
+  /*border: 1px solid red;*/
 }
 
 @media screen and (max-width: 768px) {

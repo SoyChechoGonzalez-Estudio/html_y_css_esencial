@@ -13,10 +13,17 @@
 :root {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
+  --main-color: #ff6464;
 }
 figure img {
   max-inline-size: 100%;
 }
 body {
   overflow-x: hidden;
+}
+.mail{
+  margin-block: 32px;
+}
+.mailto{
+  color: var(--main-color);
 }

@@ -7,8 +7,15 @@
   background-color: #fff;
   position: sticky;
   top: 0;
+  z-index: 11;
 }
 .header div {
   position: sticky;
   top: 24px;
+}
+.header details ol {
+  padding-inline-start: 32px;
+}
+.header details ol li a {
+  color: #000;
 }
